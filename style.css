@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    font-family: "poppins" ,sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgrey;
+}
+
+.orange-highlight{
+    color: MediumVioletRed;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position-x: initial;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: MediumVioletRed;
+    background-image: linear-gradient(45deg lightsalmon,tomato);
+    padding:10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.my-bio{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: initial;
+}
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.clint-review{
+    text-align: center;
+}
+.center{
+    margin: auto;
+    width: 60%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color:mediumvioletred ;
+}
+
+footer{
+    text-align: center;
+    font-size: 14px;
+}
